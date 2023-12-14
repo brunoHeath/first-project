@@ -1,0 +1,50 @@
+		/* Estilos gerais */
+		body {
+			font-family: Arial, sans-serif;
+			line-height: 1.6;
+			margin: 0;
+			padding: 20px;
+		}
+
+		h1 {
+			text-align: center;
+			color: #333;
+		}
+
+		h3,
+		h4 {
+			color: #555;
+		}
+
+		p {
+			color: #666;
+		}
+
+		ul {
+			list-style: none;
+			padding-left: 20px;
+		}
+
+		/* Estilos para a imagem */
+		img {
+			display: block;
+			margin: 0 auto;
+			border-radius: 5px;
+			box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+		}
+
+		/* Estilos para os títulos das seções */
+		h3,
+		h4 {
+			margin-top: 30px;
+		}
+
+		/* Estilos para as listas */
+		ul {
+			margin-top: 10px;
+		}
+
+		li {
+			margin-bottom: 5px;
+		}
+		
